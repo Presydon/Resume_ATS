@@ -54,7 +54,7 @@ def save_response_to_docx(response_text, filename="cover_letter.docx"):
 with st.sidebar:
     
     # Logo
-    st.image("D:\Resume_Project\assests\done.png", width=135)
+    st.image("assests\done.png", width=135)
     
     # File upload for Resume
     uploaded_file = st.file_uploader("Upload Resume:", type='pdf', help='Please upload resume in PDF format')
