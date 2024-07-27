@@ -1,0 +1,19 @@
+.sidebar-text {
+    font-size: 0.9em;
+}
+.sidebar-footer {
+    font-size: 0.9em;
+}
+.icon-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.3s;
+}
+.icon:hover {
+    transform: scale(1.1);
+}
