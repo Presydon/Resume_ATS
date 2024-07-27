@@ -55,6 +55,8 @@ with st.sidebar:
     
     # Logo
     st.image("done.png", width=135)
+
+    st.markdown("""---""")
     
     # File upload for Resume
     uploaded_file = st.file_uploader("Upload Resume:", type='pdf', help='Please Upload Resume in PDF Format.')
