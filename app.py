@@ -130,7 +130,7 @@ st.markdown(css, unsafe_allow_html=True)
 
 # First view
 st.header("Resume Application Tracking System")
-st.button('What is Resume ATS', on_click=lambda: st.write('An Applicant Tracking System (ATS) is software that automates the hiring process...'))
+st.link_button('What is Resume ATS', url='https://youtube.com/shorts/Amh7BPEUEXc?si=WzTcbVZKQvKgQzwk')
 
 # Response section
 jd = st.chat_input("Paste the Job Description")
