@@ -133,7 +133,8 @@ st.header("Resume Application Tracking System")
 st.link_button('What is Resume ATS', url='https://youtube.com/shorts/Amh7BPEUEXc?si=WzTcbVZKQvKgQzwk')
 
 # Response section
-jd = st.chat_input("Paste the Job Description to Generate ATS Score")
+jd = st.chat_input("Paste the Job Description")
+st.markdown("<p>Generate ATS Score<\p>", unsafe_allow_html=True)
 
 # --------------------- Prompt --------------------- #
 prompt_template = """
