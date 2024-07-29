@@ -4,8 +4,8 @@ This project is a Resume Applicant Tracking System (ATS) built using Streamlit. 
 
 ## Table of Contents
 
-  Features
-  Installation
+  - Features
+  - Installation
   Usage
   Project Structure
   Technologies Used
