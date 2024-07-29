@@ -54,11 +54,11 @@ This project is a Resume Applicant Tracking System (ATS) built using Streamlit. 
 
 ### Technologies Used
 
-    Streamlit: For building the web application.
-    PyPDF2: For extracting text from PDF resumes.
-    Google Generative AI: For generating AI-powered feedback and cover letters.
-    Python-Docx: For creating and downloading cover letters in Word format.
-    Custom CSS: For enhancing the UI design.
+  - Streamlit: For building the web application.
+  - PyPDF2: For extracting text from PDF resumes.
+  - Google Generative AI: For generating AI-powered feedback and cover letters.
+  - Python-Docx: For creating and downloading cover letters in Word format.
+  - Custom CSS: For enhancing the UI design.
 
 ### Contact
 Built by Precious Victor. Connect with me on LinkedIn and Twitter.
