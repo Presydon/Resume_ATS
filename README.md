@@ -25,7 +25,7 @@ Custom Styling: Enhanced user experience with custom CSS for better UI design.
 
 Python 3.11 or higher
 Pip (Python package installer)
-Clone the repository: git clone https://github.com/yourusername/resume-ats.git
+Clone the repository: git clone https://github.com/Presydon/resume-ats.git
 Navigate to the project directory: cd resume-ats
 Create and activate a virtual environment: python -m venv venv
 Install the required dependencies: source venv/bin/activate   # On Windows use `venv\Scripts\activate`
