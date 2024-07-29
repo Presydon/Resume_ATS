@@ -6,15 +6,15 @@ This project is a Resume Applicant Tracking System (ATS) built using Streamlit. 
 
   - Features
   - Installation
-  Usage
-  Project Structure
-  Technologies Used
-  License
+  - Usage
+  - Project Structure
+  - Technologies Used
+  - License
 
 ### Features
 
-Resume Upload: Upload your resume in PDF format.
-Job Description Input: Paste the job description directly in the sidebar.
+1. Resume Upload: Upload your resume in PDF format.
+2. Job Description Input: Paste the job description directly in the sidebar.
 AI-Powered Feedback: Get detailed feedback on your resume's alignment with the job description.
 Cover Letter Generation: Automatically generate a cover letter tailored to the job description.
 Job Description Match Percentage: Provides a percentage that matches the resume to the job description.
